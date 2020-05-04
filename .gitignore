@@ -18,3 +18,4 @@ dist
 meeple.json
 sample.py
 sample
+*.sqlite3
